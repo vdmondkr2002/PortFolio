@@ -26,4 +26,5 @@ https://vedant-mondkar.netlify.app/
   ```
     npm start
   ```
-  
+
+## Design suggestions taken from - https://github.com/soumyajit4419/Portfolio
